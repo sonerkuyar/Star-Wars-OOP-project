@@ -1,0 +1,15 @@
+2
+Soner REPUBLIC
+xmento SEPARATISTS
+3
+Officer Grievous COMMAND 9
+Sith Dooku 200 50 125
+Jedi Windu 350 80 70
+2
+SeparatistBattleship Malevolence 2 2 
+2 1 2
+RepublicCruiser Halleck 2 1 
+1 1 
+2
+1 Armament 10
+11 2
