@@ -6,5 +6,5 @@ All the details of the project can be found in the project_description.pdf file.
 
 
 ## FlowChart of the Star Wars Universe
-![FlowChart](StarWarsFlowchart.png)
+![FlowChart](StarWarsInheritance.png)
 
